@@ -1,8 +1,12 @@
 
-/* How to run this file
+
+/*
+ This file can be donwloaded from -  https://github.com/hogum/underG/archive/master.zip
+
+ How to run this file
     - Load it up in your IDE, save and run the MAIN
       method present.
-    - Alternatively, if you are a fun of the terminal
+    - Alternatively, if you are a fan of the terminal
     run:  $ javac GridBoxes.java
           $ java createGUI
 
@@ -63,7 +67,7 @@ public class GridBoxes extends JPanel {
 
             // Change the drawline color to blue
             g.setColor(Color.BLUE);
-            // x1 axis do not change
+            // x axis do not change
             // Lines are drawn from left to right of the panel
             // Hence x1 = 0 and x2 = "panelWidth"(rightMostSide of the panel)
 
